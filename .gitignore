@@ -4,3 +4,8 @@
 # React Router
 /.react-router/
 /build/
+
+# Node.js
+node_modules
+dist
+.cache
